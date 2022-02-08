@@ -1,0 +1,96 @@
+.pager{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.pager_list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: -16px;
+}
+.pager_list_item{
+    margin-right: 15px;
+    
+    height: 36px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 16px;
+     color: #BBB9CE;
+}
+
+.first_page_previous{
+    text-transform: capitalize;
+    font-family: 'Rubik';
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 92px;
+    height: 36px;
+    
+    font-weight: 400;
+    font-size: 20px;
+     color: #BBB9CE; 
+    box-sizing: border-box;
+    border: 2px solid #BBB9CE;
+    border-radius: 20px;
+    opacity: 0.5;
+}
+
+.button_next_page{
+    text-transform: capitalize;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 104px;
+    height: 36px;
+    
+    font-weight: 600;
+    font-size: 20px;
+    color: #BBB9CE;
+    box-sizing: border-box;
+    border: 2px solid #BBB9CE;
+    border-radius: 20px;
+    width: 75px;
+}
+
+.previous_page{
+    text-transform: capitalize;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 100px;
+    height: 36px;
+    
+    font-weight: 600;
+    font-size: 20px;
+    color: #BBB9CE;
+    box-sizing: border-box;
+    border: 2px solid #BBB9CE;
+    border-radius: 20px;
+    width: 75px;
+}
+
+.quantity_pages{
+    width: 46px;
+}
+
+.button_next_page_last_page{
+    text-transform: capitalize;
+    font-family: 'Rubik';
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 104px;
+    height: 36px;
+    
+    font-weight: 400;
+    font-size: 20px;
+     color: #BBB9CE; 
+    box-sizing: border-box;
+    border: 2px solid #BBB9CE;
+    border-radius: 20px;
+    opacity: 0.5;
+}

@@ -1,0 +1,129 @@
+
+.last_item_site_map_with_img{
+  color:   #333333;
+}
+
+.open_card_image{
+    width: 171px;
+    height: 294px;
+    margin: 0 auto;
+    display: block;
+}
+.litle_description_card{
+
+}
+.line_under_img{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.name_of_open_card{
+    font-family: Arial,sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    text-transform: capitalize;
+}
+.in_stock{
+
+    color: #42A852;
+    font-family: Arial,sans-serif;
+    font-size: 14px;
+}
+.div_for_price_and_description{
+    display: flex;
+    
+    width: 300px;
+margin-top: 5px;
+}
+.card_open_price{
+font-weight: 700;
+    font-size: 17px;
+    margin-right: 7px;
+    width: 130px;
+}
+.info_to_deliver{
+   opacity: .5;
+   width: 230px; 
+}
+.big_line{
+height: 14px;
+background-color: #ececec;
+margin-bottom: 20px;
+}
+
+.word_description{
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-family: Arial,sans-serif;
+}
+
+.vegetable_description{
+    font-size: 14px;
+    font-family: Arial,sans-serif;
+    line-height: 1.385em;
+}
+
+.description_list{
+
+}
+
+.main_atributs{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 14px;
+    font-family: Arial,sans-serif;
+}
+
+.word_main_atributs{
+    font-size: 14px;
+    font-weight: 700;
+    font-family: Arial,sans-serif;
+}
+
+.description_list_item{
+    display: flex;
+    padding: 6px 10px;
+    line-height: 1.4;
+    border-bottom: 1px solid;
+    border-color: #e1e2e3;
+    align-items: center;
+}
+
+.table_words{
+    font-size: 14px;
+    
+    font-family: Arial,sans-serif;
+    flex-basis: 50%;
+}
+.second_table_word{
+    margin-left: 10px;
+    text-transform: capitalize;
+}
+
+.wraper_conditions_of_deliver{
+
+}
+
+.wraper_for_icons{
+display: flex;
+align-items: center;
+
+}
+
+.wraper_for_icons:first-child{
+    margin-bottom: 10px;
+}
+
+.delivery_icons{
+margin-right: 15px;
+}
+.phone_icon{
+    margin-right: 26px;
+    margin-left: 3px;
+}
+
+.description_of_deliver{
+    font-size: 14px;
+    font-family: Arial,sans-serif;
+}

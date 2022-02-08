@@ -1,0 +1,37 @@
+.description_of_vegetable_before_footer_wraper{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 27px;
+    color: #434548;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 23px;
+    color: rgba(0, 0, 0, 0.6);
+    box-sizing: border-box;
+}
+
+.title_of_description_above_footer{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.list_of_description{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.list_of_description_item::before{
+    content: '';
+    width: 6px;
+    height: 6px;
+    top: 11px;
+    background-color: #009933;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+}
+
+.list_of_description_item{
+    padding-left: 17px;
+    position: relative;
+}
